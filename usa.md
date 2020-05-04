@@ -11,7 +11,7 @@
 ## Крейсеры
 
 #### Ветка ДеМойна (тяжёлые)
-![Baltimore](images/baltimore.png)
+![Baltimore](images/baltimore.jpg)
 
 **Плюсы**
 - Калибр 203 мм, не нуждающийся в инерционке (с 6-го уровня)
@@ -42,7 +42,7 @@
 [←](readme.md)[↑](#Американцы)
 
 #### Ветка Вустера (лёгкие)
-![Cleveland](images/cleveland.jpg)
+![Montpelier](images/montpelier.jpg)
 
 **Плюсы**
 - Много орудий с неплохим ДПМом
