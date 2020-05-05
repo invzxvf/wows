@@ -91,6 +91,6 @@
 
 # Нации
 
-[![jp](images/flag_jp.png)](jp.md) [![usa](images/flag_usa.png)](usa.md) [![ussr](images/flag_ussr.png)](ussr.md) [![ger](images/flag_ger.png)](ger.md)
+[![jp](images/flag_jp.png)](nations/jp.md) [![usa](images/flag_usa.png)](nations/usa.md) [![ussr](images/flag_ussr.png)](nations/ussr.md) [![ger](images/flag_ger.png)](nations/ger.md)
 
 
