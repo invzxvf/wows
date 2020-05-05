@@ -91,7 +91,7 @@
 
 # Нации
 
-- ![jp](images/flag_jp.png)[Японцы](jp.md)
+- [![jp](images/flag_jp.png)](jp.md)
 - ![usa](images/flag_usa.png)[Американцы](usa.md)
 - ![ussr](images/flag_ussr.png)[Советы](ussr.md)
 - ![ger](images/flag_ger.png)[Немцы](ger.md)
