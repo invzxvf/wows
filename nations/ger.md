@@ -1,4 +1,4 @@
-[←](readme.md)
+[←](../readme.md)
 
 # Немцы
 
@@ -9,7 +9,7 @@
 ## Эсминцы
 
 ## Крейсеры
-![Admiral_Hipper](images/admiral_hipper.png)
+![Admiral_Hipper](../images/admiral_hipper.png)
 
 **Плюсы**
 - Калибр 203 мм с 7-го уровня
@@ -42,10 +42,10 @@
 
 Рекомендуется к прокачке.
 
-[←](readme.md)[↑](#Немцы)
+[←](../readme.md)[↑](#Немцы)
 
 ## Линкоры
-![Bismarck](images/bismarck.jpg)
+![Bismarck](../images/bismarck.jpg)
 
 **Плюсы**
 - Башни хорошо крутятся
@@ -94,4 +94,4 @@
 
 И если не упарывать немцев в ПМК, на кой чёрт вообще их качать и выкатывать?
 
-[←](readme.md)[↑](#Немцы)
+[←](../readme.md)[↑](#Немцы)
