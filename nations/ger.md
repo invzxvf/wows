@@ -9,7 +9,7 @@
 ## Эсминцы
 
 ## Крейсеры
-![Admiral_Hipper](../images/admiral_hipper.png)
+![Admiral_Hipper](../images/admiral_hipper.jpg)
 
 **Плюсы**
 - Калибр 203 мм с 7-го уровня
