@@ -4,7 +4,7 @@
 - [Донат](#Донат)
 - [Классы](#Классы)
 - [Нации](#Нации)
-- [Бронирование&nbsp;](#Бронирование&nbsp;)
+- [Бронирование&#160;](#Бронирование&#160;)
 
 # Предупреждение
 
@@ -93,7 +93,7 @@
 
 [![jp](images/flag_jp.png)](nations/jp.md) [![usa](images/flag_usa.png)](nations/usa.md) [![ussr](images/flag_ussr.png)](nations/ussr.md) [![ger](images/flag_ger.png)](nations/ger.md) [![uk](images/flag_uk.png)](nations/uk.md) [![uk](images/flag_fr.png)](nations/fr.md) [![uk](images/flag_it.png)](nations/it.md)
 
-# Бронирование&nbsp;
+# Бронирование&#160;
 
 **WIP**
 
