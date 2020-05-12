@@ -4,7 +4,7 @@
 - [Донат](#Донат)
 - [Классы](#Классы)
 - [Нации](#Нации)
-- [Бронирование&nbsp;и&nbsp;бронепробитие](#Бронирование&nbsp;и&nbsp;бронепробитие)
+- [Бронирование&nbsp;бронепробитие](#Бронирование&nbsp;бронепробитие)
 
 # Предупреждение
 
@@ -93,11 +93,11 @@
 
 [![jp](images/flag_jp.png)](nations/jp.md) [![usa](images/flag_usa.png)](nations/usa.md) [![ussr](images/flag_ussr.png)](nations/ussr.md) [![ger](images/flag_ger.png)](nations/ger.md) [![uk](images/flag_uk.png)](nations/uk.md) [![uk](images/flag_fr.png)](nations/fr.md) [![uk](images/flag_it.png)](nations/it.md)
 
-# Бронирование&nbsp;и&nbsp;бронепробитие
+# Бронирование&nbsp;бронепробитие
 
 **WIP**
 
-![armor_scheme](../images/armor_scheme.png)
+![armor_scheme](images/armor_scheme.png)
 
 На картинке обозначены основные внешние зоны бронирования, прилетая в которые снаряд может снять ХП корабля.
 
